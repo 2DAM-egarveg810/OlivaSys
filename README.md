@@ -34,4 +34,4 @@ OlivaApp nace del compromiso con la **agricultura sostenible**, la **economía s
 
 ---
 
-© 2025 OlivaSys — Software libre para el campo andaluz.
+© 2025 OlivApp — Software libre para el campo andaluz.
