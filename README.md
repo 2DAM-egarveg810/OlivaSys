@@ -21,7 +21,7 @@ Nosotros ofrecemos:
 - Personalización de funcionalidades
 - Formación para cooperativistas
 
-¿Quieres implementarlo en tu cooperativa? [Contáctanos](mailto:soporte@olivapp.es)
+¿Quieres implementarlo en tu cooperativa? [Contáctanos](mailto:soporte@olivasys.es)
 
 ## Licencia
 
