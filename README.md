@@ -1,6 +1,6 @@
 # 🌿 OlivaSys – Gestión Digital para Cooperativas de Aceite
 
-> **Digitaliza tu cosecha, traza tu aceite, fortalece tu cooperativa.**
+> **Digitaliza tu cosecha.**
 
 ![OlivaSys_Logo](logo.png)
 
