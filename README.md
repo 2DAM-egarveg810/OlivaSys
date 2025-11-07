@@ -2,6 +2,8 @@
 
 > **Digitaliza tu cosecha, traza tu aceite, fortalece tu cooperativa.**
 
+![OlivaSys_Logo](logo.png)
+
 OlivaSys es un sistema de gestión **libre y ético** diseñado específicamente para cooperativas agrícolas andaluzas. Permite registrar la entrada de aceitunas por parcela, gestionar cooperativistas, generar lotes y emitir informes de trazabilidad, todo con transparencia y soberanía tecnológica.
 
 ## Funcionalidades
